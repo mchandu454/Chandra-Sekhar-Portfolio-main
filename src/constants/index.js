@@ -138,7 +138,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Full Developer",
+    title: "Full Stack Developer",
     company_name: "Kernn Automations",
     icon: kernn,
     iconBg: "#383E56",
